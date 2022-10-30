@@ -1,0 +1,15 @@
+getCompChoice to random return rock paper or scissors
+use math/rando then math/floor *100 /25
+use if else else 
+1 rock
+2 paper
+3 scissors
+4 recall func
+return rock,paper,or scissors
+
+p[layer choice func prompting to get players choice
+
+playRound function using player and comp getCompChoice
+use switch statement 
+ return who picked what and 
+who won the round
